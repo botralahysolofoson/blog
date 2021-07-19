@@ -1,0 +1,24 @@
+body {
+	margin: 0 auto;
+	
+	background-image: url(image/baobab.jpg);
+
+}
+
+h1 {
+	margin-left: 35%;
+
+}
+div {
+	display: inline-block;
+	margin-left: 23px;
+}
+.and {
+	margin-left: 9%;
+}
+.bar {
+	margin-left: 5%;
+}
+#man {
+	margin-left: 40%;
+}
